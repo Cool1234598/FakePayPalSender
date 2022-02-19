@@ -1,7 +1,7 @@
 # Fake Paypal Proof Generator
 
 ## What is this?
-It generates proof of paypal payment (example: You've sent 100 USD to )
+It generates proof of paypal payment (example: You've sent 100 USD to njeri69278@gmail.com )
 ![proof](https://cdn.discordapp.com/attachments/806324204786024448/810994223959900200/Screenshot_2021-02-15_at_1.59.12_PM.png)
 <br> 
 ## How does it work?
